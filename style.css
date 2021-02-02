@@ -74,6 +74,7 @@ a {
     font-size: 1.5rem;
     color: white;
     transition: 100ms linear;
+    font-weight: bold;
 }
 
 .skills-box:hover {
